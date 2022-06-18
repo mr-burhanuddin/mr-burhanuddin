@@ -20,6 +20,8 @@ I have Complete Serveral Project Source Code On Github.
 
 [![Burhanuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-burhanuddin)](https://github.com/mr-burhanuddin/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-burhanuddin&layout=compact)](https://github.com/mr-burhanuddin/github-readme-stats)
+
 # My Socials
 
 [Link Tree](https://btriee7.web.app/)
