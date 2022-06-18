@@ -16,6 +16,10 @@ I have Complete Serveral Project Source Code On Github.
 
 1. BangDB Ampere
 
+# My Stats
+
+[![Burhanuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-burhanuddin)](https://github.com/mr-burhanuddin/github-readme-stats)
+
 # My Socials
 
 [Link Tree](https://btriee7.web.app/)
