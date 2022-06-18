@@ -1,6 +1,5 @@
-# mr-burhanuddin
+# Hi This Is Burhanuddin !
 
-Hi This Is Burhanuddin !
 I am a MERN Stack Developer. Talks About React,Nextjs,Javascript And MERN Apps.
 I have Complete Serveral Project Source Code On Github.
 
@@ -16,3 +15,7 @@ I have Complete Serveral Project Source Code On Github.
 # Current Project
 
 1. BangDB Ampere
+
+# My Socials
+
+[Link Tree](https://btriee7.web.app/)
