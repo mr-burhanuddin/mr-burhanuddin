@@ -1,7 +1,7 @@
 # Hi This Is Burhanuddin !
 
-I am a MERN Stack Developer. Talks About React,Nextjs,Javascript And MERN Apps.
-I have Complete Serveral Project Source Code On Github.
+I am a MERN Stack Developer.
+Talks About React,Nextjs,Javascript,Redux,ES6 & MERN Apps.
 
 # Project 💯🔥
 
